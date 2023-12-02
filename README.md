@@ -6,4 +6,5 @@ The algorithms used are:
 - Decision Tree
 - K-Nearest Neighbors
 - Support Vector Classifier
-These algorithms have been compared on basis of different performance metrics like Accuracy Score, Precision Score, F1 score and Recall Score
+-
+/These algorithms have been compared on basis of different performance metrics like Accuracy Score, Precision Score, F1 score and Recall Score
